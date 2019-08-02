@@ -9,6 +9,10 @@
   margin-top: 50px;
   margin-bottom: 30px;
 }
+.buy-also__cols {
+  padding-left: 15px;
+  padding-right: 15px;
+}
 .buy-also__prod {
   padding-top: 7.5px;
   padding-left: 7.5px;
@@ -70,7 +74,7 @@
   line-height: 30px;
   font-size: 18px;
   text-align: center;
-  left: 3.5%;
+  left: -5%;
   top: 33%;
   border: solid 1px rgba(0,0,0,.2);
   -webkit-transform:
@@ -99,7 +103,7 @@
   line-height: 30px;
   font-size: 18px;
   text-align: center;
-  right: 3.5%;
+  right: -5%;
   top: 33%;
   border: solid 1px rgba(0,0,0,.2);
   -webkit-transform:
